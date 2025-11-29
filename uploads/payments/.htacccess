@@ -1,0 +1,17 @@
+# Block direct access to PHP files
+<FilesMatch "\.(php|phtml|phar)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+# Allow access to image files
+<FilesMatch "\.(jpg|jpeg|png|gif|webp)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options nosniff
+    Header always set X-Frame-Options DENY
+</IfModule>

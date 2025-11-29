@@ -1,0 +1,168 @@
+[29-Nov-2025 16:03:32 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:03:38 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:03:41 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:05 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:08 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:09 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:10 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:11 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:15 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:19 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:34 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:05:53 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:06:48 UTC] Payment submitted: Order 8, Amount: 50000000.00, User: 3
+[29-Nov-2025 16:07:26 UTC] Payment verified: Payment ID 6, Order 8, Admin: 1
+[29-Nov-2025 16:08:00 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:10:40 UTC] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\laragon\www\weddinglink\reviews.php on line 126
+[29-Nov-2025 16:28:37 UTC] Query failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.phone' in 'field list' - SQL: 
+        SELECT o.*, p.name as package_name, v.company_name as vendor_name, 
+               v.phone as vendor_phone, c.name as category_name
+        FROM orders o
+        JOIN packages p ON o.package_id = p.id
+        JOIN vendors v ON p.vendor_id = v.id
+        JOIN categories c ON p.category_id = c.id
+        WHERE o.customer_id = ?
+        ORDER BY o.created_at DESC
+    
+[29-Nov-2025 16:33:08 UTC] Review submitted: Order 8, Rating: 4, Vendor: 1
+[29-Nov-2025 16:43:23 UTC] PHP Warning:  Undefined array key "total_reviews" in C:\laragon\www\weddinglink\packages.php on line 267
+[29-Nov-2025 16:43:23 UTC] PHP Warning:  Undefined array key "total_reviews" in C:\laragon\www\weddinglink\packages.php on line 267
+[29-Nov-2025 16:43:23 UTC] PHP Warning:  Undefined array key "total_reviews" in C:\laragon\www\weddinglink\packages.php on line 267
+[29-Nov-2025 16:46:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\dashboard.php on line 26
+[29-Nov-2025 16:46:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 16:46:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 16:48:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 30
+[29-Nov-2025 16:48:01 UTC] Query failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendor_id' cannot be null - SQL: INSERT INTO packages (name, description, price, duration_hours, category_id, vendor_id, features) 
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+[29-Nov-2025 16:48:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 16:48:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 30
+[29-Nov-2025 16:48:50 UTC] Query failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendor_id' cannot be null - SQL: INSERT INTO packages (name, description, price, duration_hours, category_id, vendor_id, features) 
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+[29-Nov-2025 16:48:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 16:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 30
+[29-Nov-2025 16:49:23 UTC] Query failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendor_id' cannot be null - SQL: INSERT INTO packages (name, description, price, duration_hours, category_id, vendor_id, features) 
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+[29-Nov-2025 16:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 16:54:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\dashboard.php on line 26
+[29-Nov-2025 16:54:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 16:54:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 30
+[29-Nov-2025 16:54:51 UTC] Query failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendor_id' cannot be null - SQL: INSERT INTO packages (name, description, price, duration_hours, category_id, vendor_id, features) 
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+[29-Nov-2025 16:54:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
