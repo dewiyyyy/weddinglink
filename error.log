@@ -166,3 +166,44 @@
 [29-Nov-2025 16:54:51 UTC] Query failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'vendor_id' cannot be null - SQL: INSERT INTO packages (name, description, price, duration_hours, category_id, vendor_id, features) 
                     VALUES (?, ?, ?, ?, ?, ?, ?)
 [29-Nov-2025 16:54:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\weddinglink\packages.php on line 135
+[29-Nov-2025 18:34:20 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:34:20 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:34:20 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:34:56 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:34:56 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:34:56 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:34:57 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:34:57 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:34:57 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:35:19 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:35:19 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:35:19 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:35:20 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:35:20 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:35:20 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:40:02 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:40:02 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:40:02 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:41:32 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:41:32 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:41:32 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:41:33 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:41:33 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:41:33 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:41:49 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:41:49 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:41:49 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:41:50 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:41:50 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:41:50 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:42:27 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:42:27 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:42:27 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:42:28 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:42:28 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:42:28 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:42:38 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:42:38 UTC] Fetching orders for user: 3, role: customer
+[29-Nov-2025 18:42:38 UTC] Customer orders count: 7 for customer ID: 3
+[29-Nov-2025 18:55:07 UTC] Orders Access - User ID: 3, Role: customer
+[29-Nov-2025 18:55:55 UTC] Orders Access - User ID: 3, Role: customer
