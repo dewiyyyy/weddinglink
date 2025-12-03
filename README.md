@@ -264,5 +264,3 @@ Project ini dibuat untuk memenuhi **Tugas Final Project Mata Kuliah Rekayasa Per
 
 ---
 
-**Dibuat dengan ❤️ oleh Kelompok 9 — WeddingLink Team**
->>>>>>> 44b5390 (mengedit readme)
