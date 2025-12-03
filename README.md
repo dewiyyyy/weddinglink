@@ -17,11 +17,17 @@
 ## 👥 Identitas Kelompok
 - **Nama Kelompok :** 9
 - **Anggota & Jobdesk :**
+
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
-  | [Nadhif Pandya Supriyadi (701230024)] | Requirement Gathering, SRS |
-  | [Novi Astina Wijayanti (701230088)] | Design (UML, UI) |
-  | [Dewi Lupiani (701230054)] | Implementasi Backend |
+  | Nadhif Pandya Supriyadi (701230024) | membuat use case,activity, sequence, ERD, class diagram
+Membuat program menggunakan PHP Native.
+Mengimplementasikan proses CRUD dan session login.
+Mendesain tabel MySQL dan menyediakan file database.sql.
+Melakukan deployment melalui FileZilla ke InfinityFree dan pengecekan pasca-upload.
+ |
+  | Novi Astina Wijayanti (701230088) | Design (UML, UI) |
+  | Dewi Lupiani (701230054) | Implementasi Backend |
 
 
 ---
