@@ -15,18 +15,12 @@
 ---
 
 ## 👥 Identitas Kelompok
-- **Nama Kelompok :** 9
-- **Anggota & Jobdesk :**
+| Nama Anggota                            | Tugas / Jobdesk                                                                                                                                                                                                                                                                                                         |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nadhif Pandya Supriyadi (701230024)** | Membuat Use Case, Activity, Sequence, ERD, dan Class Diagram. Mengembangkan program menggunakan PHP Native. Mengimplementasikan CRUD dan session login. Mendesain struktur tabel MySQL dan menyediakan file **database.sql**. Melakukan deployment menggunakan FileZilla ke InfinityFree serta pengecekan pasca-upload. |
+| **Novi Astina Wijayanti (701230088)**   | Merapikan struktur dokumen SRS. Membuat diagram arsitektur sistem monolitik. Mengumpulkan kebutuhan fungsional. Menulis README yang menjelaskan instalasi dan fitur aplikasi.                                                                                                                                           |
+| **Dewi Lupiani (701230054)**            | Menyusun kebutuhan non-fungsional. Menuliskan deskripsi fitur utama secara runtut. Membuat batasan sistem dan asumsi penggunaan. Menyusun slide PPT presentasi. Menyusun dan melakukan User Acceptance Testing untuk kelompok 11.                                                                                       |
 
-  | Nama Anggota | Tugas / Jobdesk |
-  |--------------|-----------------|
-  | Nadhif Pandya Supriyadi (701230024) | membuat use case,activity, sequence, ERD, class diagram, Membuat program menggunakan PHP Native. Mengimplementasikan proses CRUD dan session login. Mendesain tabel MySQL dan menyediakan file database.sql. Melakukan deployment melalui FileZilla ke InfinityFree dan pengecekan pasca-upload.
- |
-  | Novi Astina Wijayanti (701230088) | Design (UML, UI) |
-  | Dewi Lupiani (701230054) | Implementasi Backend |
-
-
----
 
 ## 📱 Deskripsi Singkat Aplikasi
 
