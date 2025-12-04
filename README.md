@@ -6,12 +6,15 @@
 </p>
 
 <p align="center">
-  <img alt="WeddingLink" src="https://img.shields.io/badge/WeddingLink-Platform%20Pernikahan-blue" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-8.2%2B-777BB4" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5.3-7952B3" />
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green" />
+  <a href="https://weddinglink.ct.ws">
+    <img alt="WeddingLink" src="https://img.shields.io/badge/WeddingLink-Website-blue?logo=google-chrome&logoColor=white&style=for-the-badge" />
+  </a>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-8.2+-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative&logoColor=white&style=for-the-badge" />
 </p>
+
 ---
 
 ## 👥 Identitas Kelompok
